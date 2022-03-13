@@ -10,13 +10,3 @@ outline:none;
 
 `;
 export {Button}
-//  const Button=()=>{
-
-//     return (
-//         <div>
-//             <Butondiv>
-//       <button>Primary Button</button>
-//       </Butondiv>
-//         </div>
-//     )
-// }
